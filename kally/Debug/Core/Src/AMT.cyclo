@@ -1,0 +1,3 @@
+../Core/Src/AMT.c:23:6:AMT_encoder_init	1
+../Core/Src/AMT.c:31:6:AMT_encoder_update	3
+../Core/Src/AMT.c:67:6:AMT_encoder_reset	1

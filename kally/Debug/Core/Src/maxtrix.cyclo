@@ -1,0 +1,9 @@
+../Core/Src/maxtrix.c:22:8:matrix_init	3
+../Core/Src/maxtrix.c:36:8:matrix_update	3
+../Core/Src/maxtrix.c:45:8:matrix_plus	3
+../Core/Src/maxtrix.c:59:8:matrix_minus	3
+../Core/Src/maxtrix.c:73:8:matrix_multiply	4
+../Core/Src/maxtrix.c:91:8:matrix_gain	3
+../Core/Src/maxtrix.c:105:8:matrix_transpose	3
+../Core/Src/maxtrix.c:119:7:matrix_determinant	6
+../Core/Src/maxtrix.c:136:8:matrix_inverse	7
